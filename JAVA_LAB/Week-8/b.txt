@@ -1,0 +1,10 @@
+reactor
+device
+vibranium
+iron
+armor
+electromagnet
+gigajoules
+magnitude
+morbius strip
+Shield

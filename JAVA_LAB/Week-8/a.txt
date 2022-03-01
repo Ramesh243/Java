@@ -1,0 +1,5 @@
+The Arc Reactor was a device intially designed by Howard Stark, and later adaped by his son, Tony Stark.
+A massive arc reactor provided power for the sprawling complex of Stark Industries until its destruction,
+and later the Stark Tower.
+This design was miniaturized by Tony to a life-saving electromagnet in his chest, which had an energy output of
+8 GigaJoules per second
